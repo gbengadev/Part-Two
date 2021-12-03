@@ -1,6 +1,7 @@
 # QA Technical Exercise
 ## Part 2
 Follow these steps to run the tests in this project
+
 ###Windows
 * Install JDK 11+ [https://docs.oracle.com/en/java/javase/11/install/installation-jdk-microsoft-windows-platforms.html#GUID-A7E27B90-A28D-4237-9383-A58B416071CA](https://docs.oracle.com/en/java/javase/11/install/installation-jdk-microsoft-windows-platforms.html#GUID-A7E27B90-A28D-4237-9383-A58B416071CA)
 * Install Maven [https://javabydeveloper.com/how-to-install-maven-on-windows/](https://javabydeveloper.com/how-to-install-maven-on-windows/)
